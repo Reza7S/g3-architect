@@ -1,0 +1,15 @@
+/* 10+Year Experience */
+
+position: absolute;
+width: 258px;
+height: 109px;
+left: 922px;
+top: 3150px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 4rem;
+text-align: center;
+color: #FFFFFF;
+
