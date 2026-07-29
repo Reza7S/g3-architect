@@ -165,21 +165,20 @@ ul>li>a {
     }
 
     .banner-info,
-    .features .features-info,
-    {
-    margin: 0;
-}
+    .features .features-info {
+        margin: 0;
+    }
 
-.features,
-.explore-feature {
-    flex-direction: column-reverse;
-    padding: 0 50px;
-    text-align: center;
-}
+    .features,
+    .explore-feature {
+        flex-direction: column-reverse;
+        padding: 0 50px;
+        text-align: center;
+    }
 
-.features .img-container {
-    grid-template-columns: 1fr;
-}
+    .features .img-container {
+        grid-template-columns: 1fr;
+    }
 
 
 }
